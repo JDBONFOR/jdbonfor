@@ -1,8 +1,8 @@
 ### Hi, I'm Juan 👨‍💻
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1915-blue)
+![](https://komarev.com/ghpvc/?username=jdbonfor&color=green)
 [![Twitter Badge](https://img.shields.io/badge/-jdbonfor-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jdbonfor)](https://twitter.com/jdbonfor) 
-[![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdbonfor//)](https://www.linkedin.com/in/jdbonfor//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Juan_Bonforti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdbonfor/)](https://www.linkedin.com/in/jdbonfor/) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ![github-banner](https://user-images.githubusercontent.com/17513325/89477143-e1021b80-d762-11ea-9e29-788f877374fb.png)
