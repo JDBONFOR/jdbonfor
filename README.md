@@ -17,7 +17,7 @@ class JuanBonforti: Person = {
   let Name: String = "Juan"
   let LastName: String = "Bonforti"
   let Nationality: String = "Argentina"
-  var technologies: [String] = ["Swift","JavaScript","Angular","HTML","CSS"]
+  var technologies: [String] = ["Swift","CocoaPods","Git","MVVM","JavaScript","Angular","HTML","CSS"]
 }
 ```
 
