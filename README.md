@@ -13,11 +13,11 @@
 ```swift
 class JuanBonforti: Person = {
 
-  var age: Int = 32
+  var age: Int = 33
   let Name: String = "Juan"
   let LastName: String = "Bonforti"
   let Nationality: String = "Argentina"
-  var technologies: [String] = ["Swift","CocoaPods","Git","MVVM","JavaScript","Angular","HTML","CSS"]
+  var technologies: [String] = ["Swift","CocoaPods","GIT","MVVM","MVC","RxSwift","JavaScript","Angular","HTML","CSS"]
 }
 ```
 
